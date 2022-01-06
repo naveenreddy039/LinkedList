@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\bin\Debug\netcoreapp3.1\DataStrcture1.exe
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\bin\Debug\netcoreapp3.1\DataStrcture1.deps.json
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\bin\Debug\netcoreapp3.1\DataStrcture1.runtimeconfig.json
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\bin\Debug\netcoreapp3.1\DataStrcture1.runtimeconfig.dev.json
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\bin\Debug\netcoreapp3.1\DataStrcture1.dll
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\bin\Debug\netcoreapp3.1\DataStrcture1.pdb
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\obj\Debug\netcoreapp3.1\DataStrcture1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\obj\Debug\netcoreapp3.1\DataStrcture1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\obj\Debug\netcoreapp3.1\DataStrcture1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\obj\Debug\netcoreapp3.1\DataStrcture1.AssemblyInfo.cs
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\obj\Debug\netcoreapp3.1\DataStrcture1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\obj\Debug\netcoreapp3.1\DataStrcture1.dll
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\obj\Debug\netcoreapp3.1\DataStrcture1.pdb
+C:\Users\hp\source\repos\DataStrcture1\DataStrcture1\obj\Debug\netcoreapp3.1\DataStrcture1.genruntimeconfig.cache
